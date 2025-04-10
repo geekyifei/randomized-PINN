@@ -17,9 +17,9 @@ Key features:
 - We propose a weighted-likelihood Bayesian PINN formulation to balance contributions from different terms (e.g., PDE, IC, BC residuals, measurements).
 
 The following inverse PDE problems are included:
--1D Linear Poisson Equation
--1D Non-Linear Poisson Equation
--2D Diffusion Equation with Spatially Varying Coefficient
+- 1D Linear Poisson Equation
+- 1D Non-Linear Poisson Equation
+- 2D Diffusion Equation with Spatially Varying Coefficient
 
 If you find this code useful for your research, please cite the following paper:
 ```bibtex
