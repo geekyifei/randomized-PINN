@@ -8,7 +8,7 @@ Implementations of the "randomize-then-optimize" approach for sampling Physics-i
 
 ---
 
-## 🧠 Overview
+## Overview
 This repo contains JAX-based implementations of randomized PINNs (rPINNs), which inject randomness into the PINN loss function to generate posterior samples for inverse problems governed by partial differential equations (PDEs). This method provides a scalable alternative to traditional Bayesian inference techniques for physics-constrained problems.
 
 Key features:
