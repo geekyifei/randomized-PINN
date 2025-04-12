@@ -16,7 +16,7 @@ Key features:
 - Outperforms Hamiltonian Monte Carlo (HMC) and Stein Variational Gradient Descent (SVGD) methods, while they suffer from the curse of dimensionality and ill-conditioned posterior covariance structure. Additionally, rPINN is highly parallelizable.
 - We propose a weighted-likelihood Bayesian PINN formulation to balance contributions from different terms (e.g., PDE, IC, BC residuals, measurements).
 
-<img src="https://github.com/geekyifei/randomized-PINN/blob/main/rPINN_schematization.PNG" width="1600" />
+<img src="https://github.com/geekyifei/randomized-PINN/blob/main/rPINN_schematization.PNG" width="1000" />
 The following inverse PDE problems are included:
 - 1D Linear Poisson Equation
 - 1D Non-Linear Poisson Equation
